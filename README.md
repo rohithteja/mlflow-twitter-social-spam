@@ -2,6 +2,8 @@
 
 This repository holds the code for an MLflow project with Twitter spam dataset where the objective is to detect the spam users. In this project, SVM classifier is used to correctly predict the spam users. The hyperparameters "C" and "Kernel" can be tuned accordingly while performing the experiments.
 
+Note: This MLflow project uses conda virtual environment
+
 ## Requirements:
 
 Install MLflow from PyPI via `pip install mlflow`
