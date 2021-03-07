@@ -1,0 +1,10 @@
+name: socialspam
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      C: {type: int, default: 10}
+      kernel: {type: str, default: "poly"}
+    command: "python socialspam.py {C} {kernel}"

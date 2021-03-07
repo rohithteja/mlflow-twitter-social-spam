@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/User/documents/github/mlflow-twitter-social-spam/mlruns/0/18e7e398b66048f2afbdd5a8e6c4131b/artifacts
+end_time: 1615129932611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 18e7e398b66048f2afbdd5a8e6c4131b
+run_uuid: 18e7e398b66048f2afbdd5a8e6c4131b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1615129928957
+status: 3
+tags: []
+user_id: rohithteja

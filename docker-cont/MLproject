@@ -1,0 +1,11 @@
+name: socialspam
+
+docker_env:
+  image: docker-socialspam:1.0
+
+entry_points:
+  main:
+    parameters:
+      C: {type: int, default: 10}
+      kernel: {type: str, default: "poly"}
+    command: "python socialspam.py {C} {kernel}"
